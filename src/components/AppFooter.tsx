@@ -31,12 +31,12 @@ export default function AppFooter() {
           </div>
         </div>
         <div className="flex items-center space-x-3">
-          <Link href="#github-placeholder" passHref legacyBehavior>
+          <Link href="https://github.com/ankits1802/" passHref legacyBehavior>
             <a target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:text-primary transition-colors">
               <Github className="h-5 w-5" />
             </a>
           </Link>
-          <Link href="#external-link-placeholder" passHref legacyBehavior>
+          <Link href="https://ankits1802-autosql.vercel.app/" passHref legacyBehavior>
             <a target="_blank" rel="noopener noreferrer" aria-label="External Link" className="hover:text-primary transition-colors">
               <ExternalLink className="h-5 w-5" />
             </a>
