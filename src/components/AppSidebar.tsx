@@ -30,7 +30,7 @@ export default function AppSidebar() {
       id: 'back-to-project', 
       label: 'Back to Project', 
       icon: ArrowLeft, 
-      href: "https://6000-firebase-studio-1747578327375.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/",
+      href: "https://ankits1802-autosql.vercel.app/",
       external: false, // Changed to false to open in the same tab
     },
     { id: 'dashboard', href: '/', label: 'Dashboard', icon: HomeIcon },
